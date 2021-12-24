@@ -30,7 +30,7 @@ https://clashofspace.netlify.app/
  
 #### Screenshots:
 
-<img src="https://github.com/Rajspeaks/Clash-of-Space/blob/main/screenshot.png" height="500px" width="500px"> <img src="https://github.com/Rajspeaks/Bubble-Shooter/blob/main/screenshot2.png" height="500px" width="500px"> <img src="https://github.com/Rajspeaks/Bubble-Shooter/blob/main/screenshot3.png" height="500px" width="500px">
+<img src="https://github.com/Rajspeaks/Clash-of-Space/blob/main/screenshot.png" height="500px" width="500px"> <img src="https://github.com/Rajspeaks/Clash-of-Space/blob/main/screenshot2.png" height="500px" width="500px"> <img src="https://github.com/Rajspeaks/Clash-of-Space/blob/main/screenshot3.png" height="500px" width="500px">
 
 
 &copy; Rajdeep Das
