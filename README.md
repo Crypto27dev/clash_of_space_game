@@ -10,7 +10,7 @@ https://clashofspace.netlify.app/
 ### Instruction:
 
 - Use mouse clicks on your space craft to start firing your enemies,
-- Your enemies can in single form or in a bulk from any side & even can trick you. So observe the screen carefully.
+- Your enemies can attack you in single form or in a bulk from any side & even can trick you with an approach to attack but will not attack. So observe the screen carefully.
 - You can turn on auto-firing feature of your space craft by pressing F key one time on your keyboard. Also you can turn it off by pressing F key again,
 - Use arrow keys to move your space craft left, right, up or down in any position on your screen,
 - Depending on your fighting skill, you can cross level by level up to 9-10. For each next level, you will get stronger enemies or even bulk of enemies.
