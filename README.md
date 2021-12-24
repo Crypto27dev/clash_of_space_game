@@ -9,14 +9,19 @@ https://clashofspace.netlify.app/
 
 ### Instruction:
 
-- Use mouse clicks to start firing,
-- Press F key to start automatic firing,
-- Use arrow keys to move left, right, up or down,
-- Notice the score, progress bar and health bar accordingly.
+- Use mouse clicks on your space craft to start firing your enemies,
+- Your enemies can in single form or in a bulk from any side & even can trick you. So observe the screen carefully.
+- You can turn on auto-firing feature of your space craft by pressing F key one time on your keyboard. Also you can turn it off by pressing F key again,
+- Use arrow keys to move your space craft left, right, up or down in any position on your screen,
+- Depending on your fighting skill, you can cross level by level up to 9-10. For each next level, you will get stronger enemies or even bulk of enemies.
+- The more you get better fighting skills, you will have a chance of powerup yourself by having more powerful weapons for one time use.
+- Notice your scorecard, progress bar and health bar accordingly.
+- The number of times you get smashed by your enemies, your health bar will be decreasing to the lower level.
+- For each match, if you achieve better score than previous one, your progress bar will get a level up.
 
-### Features:
+### Additional Features:
 
-- It will store your highest scores,
+- It will store your highest scores, the duration of earning that score
 - You can pause the game by pressing P key from keyboard.
 
 ### Info:
