@@ -1,6 +1,23 @@
 # CLASH OF SPACE
 A space craft shooting game, built with HTML5, JavaScript. It's a desktop version game, so can be played only in desktop/laptop.
 
+
+    1, 1, 1, 1, 1, 1, 1, 1       1, 1, 1, 1, 1, 1, 1, 1       1, 1, 1, 1, 1, 1, 1, 1
+			 1, 1, 1, 1, 1, 1, 1, 1       1, 1, 1, 1, 1, 1, 1, 1       1, 1, 1, 1, 1, 1, 1, 1
+			 1, 1, 1, 1, 1, 1, 1, 1       1, 1, 1, 1, 1, 1, 1, 1       1, 1, 1, 1, 1, 1, 1, 1
+			 1, 1, 1                      1, 1, 1        1, 1, 1       1, 1, 1 
+			 1, 1, 1                      1, 1, 1        1, 1, 1       1, 1, 1 
+			 1, 1, 1                      1, 1, 1        1, 1, 1       1, 1, 1, 1, 1, 1, 1, 1
+			 1, 1, 1                      1, 1, 1        1, 1, 1       1, 1, 1, 1, 1, 1, 1, 1
+			 1, 1, 1                      1, 1, 1        1, 1, 1       1, 1, 1, 1, 1, 1, 1, 1
+			 1, 1, 1                      1, 1, 1        1, 1, 1                      1, 1, 1
+    1, 1, 1                      1, 1, 1        1, 1, 1                      1, 1, 1
+			 1, 1, 1, 1, 1, 1, 1, 1       1, 1, 1, 1, 1, 1, 1, 1       1, 1, 1, 1, 1, 1, 1, 1
+			 1, 1, 1, 1, 1, 1, 1, 1       1, 1, 1, 1, 1, 1, 1, 1       1, 1, 1, 1, 1, 1, 1, 1
+			 1, 1, 1, 1, 1, 1, 1, 1       1, 1, 1, 1, 1, 1, 1, 1       1, 1, 1, 1, 1, 1, 1, 1
+
+
+
 ## Link:
 
 Hosted on Netlify
@@ -10,8 +27,8 @@ https://clashofspace.netlify.app/
 ### Instruction:
 
 - Use mouse clicks on your space craft to start firing your enemies,
-- Your enemies can attack you in single form or in a bulk from any side & even can trick you with an approach to attack but will not attack. So observe the screen carefully.
-- You can turn on auto-firing feature of your space craft by pressing F key one time on your keyboard. Also you can turn it off by pressing F key again,
+- Your enemies can attack you in single or in bulk from any side & even can trick you with an approach to attack but will not attack. So observe the screen carefully.
+- You can turn on the AUTO-FIRING feature of your space craft by pressing 'F' key one time on your keyboard. Also you can turn it off by pressing 'F' key again,
 - Use arrow keys to move your space craft left, right, up or down in any position on your screen,
 - Depending on your fighting skill, you can cross level by level up to 9-10. For each next level, you will get stronger enemies or even bulk of enemies.
 - The more you get better fighting skills, you will have a chance of powerup yourself by having more powerful weapons for one time use.
@@ -22,7 +39,7 @@ https://clashofspace.netlify.app/
 ### Additional Features:
 
 - It will store your highest scores, the duration of earning that score
-- You can pause the game by pressing P key from keyboard.
+- You can pause the game by pressing 'P' key from keyboard.
 
 ### Info:
 
