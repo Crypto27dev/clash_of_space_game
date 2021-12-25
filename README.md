@@ -1,7 +1,7 @@
 # CLASH OF SPACE
 
 Clash of Space is clone game of Radius Raid of js13kGames (A JavaScript coding competition for HTML5 Game Developers) which is a popular game for kids. 
-A space craft shooting game, built with HTML5, CSS, JavaScript. It's a desktop version game, so can be played only in desktop/laptop.
+A space craft shooting game built with HTML5, CSS, JavaScript. It's a desktop version game, so can be played only in desktop/laptop.
 
 
 
@@ -33,8 +33,8 @@ https://rajspeaks.github.io/clash-of-space
 
 ### Instruction:
 
-- Use mouse clicks on your space craft to start firing your enemies,<br>
-- Your enemies can attack you in single or in bulk from any side & even can trick you with an approach to attack but will not attack. So observe the screen carefully.<br>
+- Use mouse clicks on your space craft to start firing your enemies,
+- Your enemies can attack you in single or in bulk from any side & even can trick you with an approach to attack but will not attack. So observe carefully,
 - Different types of enemy-crafts with their different kind of unique colour-appearances are there. While attacking those, for each kind of enemy-craft you will earn different points like +5, +10, +15, +30 & more.
 - You can turn on the AUTO-FIRING feature of your space craft by pressing 'F' key one time on your keyboard. Also you can turn it off by pressing 'F' key again,
 - Use arrow keys to move your space craft left, right, up or down in any position on your screen,
@@ -54,7 +54,7 @@ https://rajspeaks.github.io/clash-of-space
 - Used HTML5, CSS with JS Animation,
 - Reference from Code-Project.org, Code-pen, W3School, GeeksforGeeks,
 - Idea taken from Astaroids, Star Shooter, Warfare, Space Pips & some random online space games,
-- Origin is : Radius Raid
+- Origin is : Radius Raid, Developer: https://github.com/jackrugile; Source repor: https://github.com/jackrugile/radius-raid-js13k
 - Game Math applied here from: BILLY LAMBERTA FOUNDATION, Code-pen, W3School,
 - Audio credit: JSFXR BY MARKUSNEUBRAND
  
