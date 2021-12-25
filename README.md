@@ -25,6 +25,11 @@ Hosted on Netlify
 
 https://clashofspace.netlify.app/
 
+Also, hosted on Gitub page 
+
+https://rajspeaks.github.io/clash-of-space
+
+
 ### Instruction:
 
 - Use mouse clicks on your space craft to start firing your enemies,
