@@ -1,6 +1,6 @@
 # CLASH OF SPACE
 
-A space craft shooting game, built with HTML5, JavaScript. It's a desktop version game, so can be played only in desktop/laptop.
+A space craft shooting game, built with HTML5, CSS, JavaScript. It's a desktop version game, so can be played only in desktop/laptop.
 
 
 
@@ -31,6 +31,7 @@ https://clashofspace.netlify.app/
 
 - Use mouse clicks on your space craft to start firing your enemies,
 - Your enemies can attack you in single or in bulk from any side & even can trick you with an approach to attack but will not attack. So observe the screen carefully.
+- Different types of enemy-crafts with their different kind of unique colour-appearances are there. While attacking, for each kind of enemy-craft you will earn different points like +5, +15 or +30 & more.
 - You can turn on the AUTO-FIRING feature of your space craft by pressing 'F' key one time on your keyboard. Also you can turn it off by pressing 'F' key again,
 - Use arrow keys to move your space craft left, right, up or down in any position on your screen,
 - Depending on your fighting skill, you can cross level by level up to 9-10. For each next level, you will get stronger enemies or even bulk of enemies.
@@ -41,12 +42,12 @@ https://clashofspace.netlify.app/
 
 ### Additional Features:
 
-- It will store your highest scores, the duration of earning that score
+- It will store your highest score with the time durations, so that you can track your progress & can compete yourself for better one.
 - You can pause the game by pressing 'P' key from keyboard.
 
 ### Info:
 
-- Used HTML5 with JS Animation,
+- Used HTML5, CSS with JS Animation,
 - Reference from Code-Project.org, Code-pen, W3School, GeeksforGeeks,
 - Idea taken from Astaroids, Star Shooter, Warfare, Space Pips & some random online space games,
 - Origin is : Radius Raid
