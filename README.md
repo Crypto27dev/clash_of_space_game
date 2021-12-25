@@ -4,19 +4,16 @@ A space craft shooting game, built with HTML5, CSS, JavaScript. It's a desktop v
 
 
 
-                     1, 1, 1, 1, 1, 1, 1, 1       1, 1, 1, 1, 1, 1, 1, 1       1, 1, 1, 1, 1, 1, 1, 1
+                     
 			 1, 1, 1, 1, 1, 1, 1, 1       1, 1, 1, 1, 1, 1, 1, 1       1, 1, 1, 1, 1, 1, 1, 1
 			 1, 1, 1, 1, 1, 1, 1, 1       1, 1, 1, 1, 1, 1, 1, 1       1, 1, 1, 1, 1, 1, 1, 1
 			 1, 1, 1                      1, 1, 1        1, 1, 1       1, 1, 1 
-			 1, 1, 1                      1, 1, 1        1, 1, 1       1, 1, 1 
-			 1, 1, 1                      1, 1, 1        1, 1, 1       1, 1, 1, 1, 1, 1, 1, 1
 			 1, 1, 1                      1, 1, 1        1, 1, 1       1, 1, 1, 1, 1, 1, 1, 1
 			 1, 1, 1                      1, 1, 1        1, 1, 1       1, 1, 1, 1, 1, 1, 1, 1
 			 1, 1, 1                      1, 1, 1        1, 1, 1                      1, 1, 1
-                     1, 1, 1                      1, 1, 1        1, 1, 1                      1, 1, 1
 			 1, 1, 1, 1, 1, 1, 1, 1       1, 1, 1, 1, 1, 1, 1, 1       1, 1, 1, 1, 1, 1, 1, 1
 			 1, 1, 1, 1, 1, 1, 1, 1       1, 1, 1, 1, 1, 1, 1, 1       1, 1, 1, 1, 1, 1, 1, 1
-			 1, 1, 1, 1, 1, 1, 1, 1       1, 1, 1, 1, 1, 1, 1, 1       1, 1, 1, 1, 1, 1, 1, 1
+			 
 
 
 
@@ -24,6 +21,7 @@ A space craft shooting game, built with HTML5, CSS, JavaScript. It's a desktop v
 ## Link:
 
 Hosted on Netlify
+[![Netlify Status](https://api.netlify.com/api/v1/badges/53abaf08-9f62-4679-ada8-c42c37ef5e6f/deploy-status)](https://app.netlify.com/sites/clashofspace/deploys)
 
 https://clashofspace.netlify.app/
 
@@ -31,7 +29,7 @@ https://clashofspace.netlify.app/
 
 - Use mouse clicks on your space craft to start firing your enemies,
 - Your enemies can attack you in single or in bulk from any side & even can trick you with an approach to attack but will not attack. So observe the screen carefully.
-- Different types of enemy-crafts with their different kind of unique colour-appearances are there. While attacking, for each kind of enemy-craft you will earn different points like +5, +15 or +30 & more.
+- Different types of enemy-crafts with their different kind of unique colour-appearances are there. While attacking those, for each kind of enemy-craft you will earn different points like +5, +15 or +30 & more.
 - You can turn on the AUTO-FIRING feature of your space craft by pressing 'F' key one time on your keyboard. Also you can turn it off by pressing 'F' key again,
 - Use arrow keys to move your space craft left, right, up or down in any position on your screen,
 - Depending on your fighting skill, you can cross level by level up to 9-10. For each next level, you will get stronger enemies or even bulk of enemies.
