@@ -25,7 +25,7 @@ Hosted on Netlify
 
 https://clashofspace.netlify.app/
 
-Also, hosted on Gitub page 
+Also, hosted on GitHub page 
 
 https://rajspeaks.github.io/clash-of-space
 
